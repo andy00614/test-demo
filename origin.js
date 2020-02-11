@@ -25,4 +25,5 @@ test('3+5',() => {
   expect(add(3,5)).toBe(7)
 })
 
-// expect(add(3,5)).toBe(7)
+expect(add(3,5)).toBe(7)
+
